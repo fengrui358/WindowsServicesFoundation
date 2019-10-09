@@ -3,6 +3,11 @@ using Topshelf;
 
 namespace WindowsServicesFoundation
 {
+    /// <summary>
+    /// 参考
+    /// https://www.cnblogs.com/lwqlun/p/11625789.html
+    /// https://topshelf.readthedocs.io/en/latest/
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
