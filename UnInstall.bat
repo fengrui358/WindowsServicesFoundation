@@ -1,0 +1,2 @@
+WindowsServicesFoundation.exe stop
+WindowsServicesFoundation.exe uninstall
